@@ -1,0 +1,15 @@
+1. Webpack
+        Babel
+        Scss
+        Eslint
+        Two Modes:
+            - Dev
+                Dev server, SourceMaps, Eslint, Not Minified JS and CSS
+            - Prod
+                Minified Code
+2. Git
+
+    Production
+        1.0.0
+    Development
+        1.2.2
